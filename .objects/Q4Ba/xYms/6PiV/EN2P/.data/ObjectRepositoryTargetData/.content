@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZXfAuyFZx0iHp4qumagX0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="bddaebe9-a8e3-414d-aa0b-7e4f1217f1b6" CvTextArea="487, 427, 41, 16" CvTextArgument="WIID" CvType="Text" DesignTimeRectangle="480, 414, 186, 46" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='WIID' type='' tag='TH' class='' check:innerText='WIID' /&gt;" Guid="1afeb099-bb12-4a51-97af-9a51c567b841" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f48f8efc8fd48ad53c1f5eb8a42d4be2.png" xmlns="">0pvYHkKHBzEWq0KZDaK9ngQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

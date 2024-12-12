@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Oj7vy6oJsU66493x9TaVwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" DesignTimeRectangle="227, 180, 1463, 1099" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='container' type='' tag='DIV' aaname='                           ' check:innerText='Work Items&amp;#xA;Home Work Items&amp;#xA;&amp;#xA;&amp;#xA;Search Results&amp;#xA;&amp;#xA;Please find below your work items. They need to be' /&gt;" Guid="9115254c-574b-4f64-bed2-a24270a05821" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7508c175018257d30f6ad27aa887b919.png" xmlns="">0eE1VaXfzAUGBVjfUmRq38g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
